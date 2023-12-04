@@ -21,16 +21,18 @@ DBD Co-Pilot aims to empower both new and veteran Dead by Daylight players by pr
 - Data extraction from screenshots of the after match screen. Providing statistics of commonly used perks on both sides and their effect on "winning". Analysis and visualization through Pandas and Matplotlib to derive insights, providing users with comprehensive match statistics and trends.
 
 
-## Tasks & Epics
-1. Loadout Creation
-2. Loadout Management
-3. Winstreak Counter
-4. Automatic Loadout Selector
-5. Loadout Sharing (Future Enhancement)
-6. Material Design & UI Consistency
-7. Personalized Bloodnet Priorities for Smart Spending (AI-Driven)
-8. Match Result Analytics
-9. Steam Achievement Integration & Progress Tracker
+## Tasks & Roadmap
+1. **Automatic Loadout Selector**: To test feasibility and functionality early on.
+2. **Loadout Management**: Core functionality for users to interact with their loadouts.
+3. **Loadout Creation**: Fundamental feature to start creating loadouts.
+4. **Material Design & UI Consistency**: Ensures a cohesive and user-friendly interface.
+5. **Personalized Bloodnet Priorities for Smart Spending (AI-Driven)**: Enhances user experience by optimizing Bloodnet spending.
+6. **Randomize Loadout Functionality**: Creative feature for variety.
+7. **Winstreak Counter**: Adds motivation and tracking for users.
+8. Build **Information & Perk Details**: Informative content for user education.
+9. **Loadout Sharing (Future Enhancement)**: Deferred for future social aspects.
+10. **Match Result Analytics**: De-prioritized for initial release.
+11. **Steam Achievement Integration & Progress Tracker**: De-prioritized for immediate launch.
 
 
 ## Technical Decisions Summary:
